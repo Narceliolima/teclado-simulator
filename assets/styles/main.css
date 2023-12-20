@@ -6,7 +6,6 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    border: 1px solid blue;
     background-color: #747474;
     color: #ffffff;
 }
